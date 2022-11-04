@@ -61,7 +61,7 @@ class Config:
     ADMINS.append(1316963576)
     API_ID = int(os.environ.get("API_ID", "20143962"))
     API_HASH = os.environ.get("API_HASH", "41db5c26a2e1901936f6b80e6681ac57")
-    CHAT_ID = int(os.environ.get("CHAT_ID", ""))
+    CHAT_ID = int(os.environ.get("CHAT_ID", "885263610"))
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5703130839:AAGV6OoP2sH2e-Y0ueEWnUBHNgzNXkgw9dQ")
     SESSION = os.environ.get("SESSION_STRING", "BQBofB7dzYdjkNgKLujxvQwoPLPALpfuupvq432wmES-EjK26YTzcsavnRa9bJe-ud2lEQtcghQC0UduI86LAs2V7c_vxRd7PEc3nuykajpGjiu_h3jBEFaK2mdqmGZ-FoetBFtxq2bfzFhD3Sjjb69QONiBR_yfjJwV7iwPnJkGhpeJY4ciAq9h8D2s88f8WZiADe45fLsb8-icLevE8xObYvmAyVd_GB_s2J4zIWwuSUBzSF6Zh3ukWd1WZPyEO5JWS4o-VdFpzTbfFwm4BVJ2p85VTIGfI-Tk3XiaIzNlIS0lUv6uJA0pIp-l8mqB4M31rzl8HbrcG65axB95WWkWAAAAAUnPEisA")
 
